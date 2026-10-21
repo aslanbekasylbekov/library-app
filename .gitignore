@@ -1,12 +1,9 @@
-# macOS
 .DS_Store
 
-# IDE (IntelliJ IDEA / Android Studio)
 .idea/
 *.iml
 .vscode/
 
-# Build output
 .gradle/
 .kotlin/
 build/

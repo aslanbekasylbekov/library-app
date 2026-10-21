@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Magazine page: a picture block and text lines. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#FF000000"
+        android:fillType="evenOdd"
+        android:pathData="M5,2h14a1,1 0,0 1,1 1v18a1,1 0,0 1,-1 1H5a1,1 0,0 1,-1 -1V3a1,1 0,0 1,1 -1zM6,4v16h12V4H6zM8,6h8v5H8V6zM8,13h8v1.5H8V13zM8,16h5v1.5H8V16z" />
+</vector>

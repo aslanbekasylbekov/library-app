@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Disc with a centre hole. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#FF000000"
+        android:fillType="evenOdd"
+        android:pathData="M12,2A10,10 0,1 1,12 22A10,10 0,1 1,12 2zM12,9.5A2.5,2.5 0,1 0,12 14.5A2.5,2.5 0,1 0,12 9.5zM12,5.5A6.5,6.5 0,0 0,5.5 12h1.5A5,5 0,0 1,12 7V5.5z" />
+</vector>
